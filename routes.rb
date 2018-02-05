@@ -1,1 +1,2 @@
-this is the root
+get '/', to: 'pages#index'
+
